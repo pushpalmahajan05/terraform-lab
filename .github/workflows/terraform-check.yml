@@ -11,7 +11,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./day5   # change if needed
+        working-directory: ./day4   # change if needed
 
     steps:
       - name: Checkout Code
